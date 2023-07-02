@@ -1,0 +1,31 @@
+.candidate{
+    width: fit-content;
+    margin: 10% auto;
+}
+.upperPanel{
+    display: flex;
+    align-items: center;
+}
+.upperPanel > div{
+    margin: 5px 25px;
+}
+.candidateDiv{
+    display: flex;
+    /* align-items: center; */
+}
+.candidateDiv > label{
+    margin: 12px 5px;
+    height: fit-content;
+    display: inline-block;
+}
+.candidateDiv > div > div>input{
+    height: 40px;
+    padding: 0 10px;
+    font-size: 16px;
+}
+.candidateHeading{
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    top: -35px;
+}

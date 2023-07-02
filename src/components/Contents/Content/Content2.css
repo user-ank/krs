@@ -1,0 +1,27 @@
+.content2{
+    width: 50%;
+    margin: 50px auto;
+    margin-bottom: 0;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 500ms ease;
+    transition: opacity 500ms ease;    
+}
+.show{
+    visibility: visible;
+    opacity: 1;
+}
+.content2 > p {
+    text-align: center;
+}
+.content2_head{
+    font-size: 30px;
+}
+.content2_body{
+    font-size: 20px;
+}
+.content2_foot{
+    margin-top: 12%;
+    font-size: 40px;
+    font-weight: 500;
+}

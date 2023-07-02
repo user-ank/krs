@@ -1,0 +1,27 @@
+#article3{
+    width: 80%;
+    margin: 5% auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-bottom: 10%; */
+   
+}
+.article3img{
+    width: 45%;
+   
+}
+.article3_sec{
+    position: relative;
+    right: 10px;
+    width: 48%;
+    text-align: center;
+
+}
+.article3_head{
+    font-size: 33px;
+}
+.article3_body{
+    margin-top: 2%;
+    font-size: 19px;
+}

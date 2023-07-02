@@ -1,0 +1,26 @@
+.footer{
+    margin-top: 10%;
+    display: flex;
+    min-height: 200px;
+    background-color: #ffc400;
+    align-items: center;
+    justify-content: space-around;
+}
+.iconTray > svg{
+    margin-right: 11px;
+}
+.feedback > p{
+    margin-bottom: 10px;
+}
+.icon{
+    font-size: 20px;
+}
+.copyRight{
+    display: flex;
+    align-items: center;
+}
+.feedback{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,19 @@
+.text{
+    width: 70%;
+    margin:0 auto ;
+    text-align: center;
+    margin-top: 10%;
+}
+
+
+.text_head{
+    color: #f59f00;
+    font-size: 35px;
+    margin-bottom: 2%;
+    text-align: center;
+
+}
+.text_body{
+    font-size: 18px;
+    margin-bottom: 2%;
+}

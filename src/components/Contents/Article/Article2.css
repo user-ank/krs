@@ -1,0 +1,27 @@
+#article2{
+    width: 80%;
+    margin: 5% auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10%;
+   
+}
+.article2img{
+    width: 48%;
+   
+}
+.article2_sec{
+    position: relative;
+    right: 10px;
+    width: 48%;
+    text-align: center;
+
+}
+.article2_head{
+    font-size: 33px;
+}
+.article2_body{
+    margin-top: 2%;
+    font-size: 19px;
+}

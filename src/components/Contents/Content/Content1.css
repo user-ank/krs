@@ -1,0 +1,39 @@
+
+.content1{
+    /* margin-top: 20px; */
+    margin-left: 15% ;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.content1_section {
+    width: 55%;
+    visibility: hidden;
+    animation-duration: 1.5s
+}
+.content1_section > header{
+    margin: 10px 0;
+    font-size: 2.2rem;
+    font-weight: 500;
+}
+.content1_section > p {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.content1img{
+    width: 70%;
+    position: relative;
+    top: 20px;    
+    visibility: hidden;
+    animation-duration: 1.5s;
+}
+.content1img2{
+    width: 16%;
+    visibility: collapse;
+    position: absolute;
+    right: 20%;
+    top: 5%;
+}
+.visible{
+    visibility: visible;
+}
